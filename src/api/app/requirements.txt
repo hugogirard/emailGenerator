@@ -2,7 +2,7 @@ fastapi==0.113.0
 fastapi-cli==0.0.5
 langchain==0.2.16
 langchain-core==0.2.38
+langchain-openai==0.1.23
 langchain-text-splitters==0.2.4
 langsmith==0.1.114
 openai==1.43.0
-python-dotenv==1.0.1
